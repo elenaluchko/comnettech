@@ -1,0 +1,12 @@
+@import url(./__logo/header__logo.css);
+@import url(./__menu/header__menu.css);
+@import url(./__nav/header__nav.css);
+
+.header {
+    background-color: #2E2E2E;
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-between;
+    grid-template-columns: 120px 1fr;
+    text-align: center;
+}
