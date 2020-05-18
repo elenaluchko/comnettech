@@ -1,7 +1,7 @@
 @import url(./__title/intro__title.css);
 @import url(./__button/intro__button.css);
 .intro {
-    background-image: url(../../images/man.png);
+    background-image: url(../../images/man.svg);
     background-repeat: no-repeat;
     display: grid;
     grid-template-columns: 300px 300px;

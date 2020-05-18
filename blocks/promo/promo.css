@@ -1,0 +1,6 @@
+@import url(./__form/promo__form.css);
+@import url(./__text/promo__text.css);
+@import url(./__button/promo__button.css);
+.promo {
+    background-color: #001AFF;
+}

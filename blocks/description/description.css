@@ -1,7 +1,7 @@
 @import url(./__title/description__title.css);
 @import url(./__list/description__list.css);
 @import url(./__list-item/description__list-item.css);
-
+@import url(./__list-pic/description__list-pic.css);
 .description {
     margin: 0 auto;
     padding-top: 10%;

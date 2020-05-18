@@ -1,0 +1,4 @@
+.promo__form {
+    display: flex;
+    justify-content: space-between;
+}

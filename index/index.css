@@ -8,6 +8,7 @@
 @import url(../blocks/description/description.css);
 @import url(../blocks/services/services.css);
 @import url(../blocks/service/service.css);
+@import url(../blocks/promo/promo.css);
 
 body {
     background-color: #ffffff;
